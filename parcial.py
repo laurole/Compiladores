@@ -94,3 +94,5 @@ vehiculo=moto("ferrary","580")#
 
 desplazamientoVehiculo(vehiculo)
 >>>>>>> 84f8eb06cc4ab4202943d8aa4c7506ac22b4b753
+
+print("el programa funciona bien")
